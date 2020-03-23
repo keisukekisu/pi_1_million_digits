@@ -1,1 +1,1 @@
-# pi_1_billion_digits
+# pi_1_million_digits
